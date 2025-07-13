@@ -18,7 +18,9 @@ UnitConverter is a simple SwiftUI app that lets users convert values between dif
 
 ## 🖼 Screenshot
 
-<img src="demo.png" alt="UnitConverter Screenshot" width="400"/>
+Here's how the app looks:
+
+<img src="demo.png" alt="UnitConverter Screenshot" width="300"/>
 
 ---
 
