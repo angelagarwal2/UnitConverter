@@ -7,10 +7,7 @@ UnitConverter is a simple SwiftUI app that lets users convert values between dif
 ## 🚀 Features
 
 - Convert between:
-  - Temperature (Celsius, Fahrenheit, Kelvin)
-  - Length (meters, kilometers, feet, miles)
-  - Time (seconds, minutes, hours)
-  - Volume (milliliters, liters, cups, pints)
+  - Length (meters, kilometers, feet, miles, yards)
 - Dynamic conversion with real-time results
 - Easy-to-use interface with pickers and input fields
 
